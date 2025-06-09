@@ -39,7 +39,7 @@ The goal is to develop a machine learning model that classifies insurance claims
 
 ### **2.2 Exploratory Data Analysis (EDA)**  
 #### **2.2.1 Univariate Analysis**  
-![](./univariate-1.png)
+![](./images/univariate-1.png)
 - Distribution plots and boxplots were used to understand the spread of numerical features such as `total_claim_amount`, `injury_claim`, and `vehicle_claim`.  
 - Categorical features like `incident_type` and `insured_hobbies` were analyzed to identify common trends in fraudulent claims.
 
@@ -57,7 +57,7 @@ The goal is to develop a machine learning model that classifies insurance claims
    - **High claim amounts (>15,000)** may indicate fraudulent attempts or exaggerated claim values.
 
 #### **2.2.2 Bivariate Analysis**  
-![](./bivariate-1.png)
+![](./images/bivariate-1.png)
 - Correlation heatmaps revealed strong relationships between claim amounts.  
 - Fraud likelihood analysis showed that claims **involving vehicle collisions, high deductibles, and certain occupations** had a higher probability of being fraudulent.
 
