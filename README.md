@@ -1,4 +1,4 @@
-# **Fraudulent Claim Detection Report**
+# **Fraudulent Claim Detection**
 **Submitted By:** Shivanshu Kumar Singh | Ankit Srivastava
 
 - [**Fraudulent Claim Detection Report**](#fraudulent-claim-detection-report)
